@@ -1,2 +1,2 @@
 This is to test committing the external file
-This is to test updates to multiple lines post the first commit
+Changes made to the file.
