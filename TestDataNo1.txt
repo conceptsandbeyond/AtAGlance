@@ -1,2 +1,1 @@
-This is test data - Line 1 - appending this line
-Deleted one line
+This is test data - Line 1
