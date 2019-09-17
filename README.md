@@ -1,4 +1,4 @@
-# Learn Travis
+# Learn Travis the easy way
 
 <div align="center">
     <a href="https://travis-ci.com/">
